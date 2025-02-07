@@ -36,6 +36,7 @@ button {
 }
 
 input {
+    font-size: 40px;
     background-color: grey;
     height: 100px;
     width: 100%
